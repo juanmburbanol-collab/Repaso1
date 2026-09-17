@@ -8,7 +8,7 @@ public class Repaso1 {
 
         int numeroInvertido= invertirNumero(numero);
 
-        System.out.println("el numero invertido es: "+ numeroInvertido);
+        System.out.println("el numero es: "+ numeroInvertido);
 
     }
 
